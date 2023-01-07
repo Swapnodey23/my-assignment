@@ -35,3 +35,42 @@
     height: 35px;
     width: 80px;
 }
+
+/* second section */
+
+.second-section{
+    display: flex;
+}
+.person-image{
+    position: absolute;
+    padding-left: 280px;
+}
+.person-details{
+    position: absolute;
+    padding-left: 750px;
+    padding-top: 150px;
+    text-align: left;
+}
+.persoon-heading{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 30px;
+    padding-right: 50px;
+}
+.person-p{
+    padding-top: 15px;
+    font-size: 13px;
+    padding-bottom: 15px;
+}
+.list{
+    position: absolute;
+    width: 500px;
+}
+ul {
+    list-style: none;
+  }
+  
+  ul li::marker {
+    content: '✓';
+    color: green;
+  }
