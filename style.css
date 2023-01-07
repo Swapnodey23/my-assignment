@@ -108,3 +108,77 @@ ul {
     padding-bottom: 10px;
     font-size: 18px;
 }
+
+/* time/middle image section */
+
+.time-section{
+    padding-top: 110px;
+    padding-left: 180px;
+    color: white;
+}
+.middle-div{
+    background-image:url(./images/watch.png);
+    background-repeat: no-repeat;
+    width: 1000px;
+    height: 250px;
+    align-items: center;
+    border-radius: 10px;
+    padding-left: 70px;
+    padding-top: 85px;
+}
+
+.p-time-section{ 
+    font-size: 40px;
+}
+
+.visit-button{
+    border: none;
+    color: rgb(240, 82, 20);    border-radius: 5px;
+    height: 40px;
+    width: 100px;
+    font-size: 20px;
+}
+
+/* footer section */
+
+.footer-section{
+    display: flex;
+    gap: 200px;
+    justify-content: center;
+    background-color: black;
+}
+.future-div{
+    width: 400px;
+    padding-top: 120px;
+    padding-left: 200px;
+    font-size: 13px;
+    color: white;
+}
+.future-details{
+    padding-top: 16px;
+
+}
+.section-last{
+
+    padding-bottom: 120px;
+}
+.icon-div{
+    padding-top: 20px;
+}
+.subscribe-div{
+    padding-top: 150px;
+    font-size: 30px;
+    padding-right: 5px;
+    color: wheat;
+}
+.input{
+    height: 35px;
+    width: 200px;
+    border-radius: 5px;
+    text-align: left;
+    padding-left: 20px;
+    margin-top: 10px;
+}
+.visit-button{
+    margin-top: 15px;
+}
